@@ -2,6 +2,8 @@
 
 <p>Esse é o Projeto Trivia que eu fiz em grupo para treinar minhas habilidades em React-Redux.</p>
 
+<h3>Você pode visualizar o site clicando <a href="https://triviareal.vercel.app/" target="_blank" >AQUI</a></h3>
+
 <h2>Integrantes do grupo:</h2>
 <ul>
   <li><a href="https://www.linkedin.com/in/jottanovaes?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACunqaMBML5MNGmM7N1t9569xE6gAhv9Gw4&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BC7B%2FfF2CRdaxR60ZQcHSiA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_detail_base-actor_container&lici=AnrDh3xBT3%2BqHHNh9IkveA%3D%3D"><p>Jotta Novaes</p></a></li>
